@@ -5,7 +5,7 @@ from zope.interface import implementer
 
 @public
 @implementer(IPlugin)
-class CommmandEmlAddMemberPlugin:
+class CommmandEmlAcceptMemberPlugin:
     def pre_hook(self):
         pass
 

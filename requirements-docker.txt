@@ -1,0 +1,1 @@
+command-eml-accept-subscription-mailman-plugin==1.0.1
